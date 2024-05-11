@@ -2,15 +2,12 @@
 import React from 'react'
 import { useState } from 'react'
 
-const page = () => {
+const Footer = () => {
   return (
     <div>
-      <a href='signup'>
-        <button>Sign Up</button>
-      </a> 
       
     </div>
   )
 }
 
-export default page
+export default Footer
